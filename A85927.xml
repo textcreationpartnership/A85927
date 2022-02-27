@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A publique lecture on all the languages, arts, sciences, and noble exercises, which are taught in Sr. Balthazar Gerbiers academy. Imprimatur, Hen: Scobell, Cleric: Parliamenti.</title>
+            <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85927</idno>
+            <idno type="STC">Wing G568</idno>
+            <idno type="STC">Thomason E595_3</idno>
+            <idno type="STC">ESTC R202282</idno>
+            <idno type="EEBO-CITATION">99862625</idno>
+            <idno type="PROQUEST">99862625</idno>
+            <idno type="VID">165567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165567)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E595[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A publique lecture on all the languages, arts, sciences, and noble exercises, which are taught in Sr. Balthazar Gerbiers academy. Imprimatur, Hen: Scobell, Cleric: Parliamenti.</title>
+                  <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Robert Ibbitson dwelling in Smithfield neer Hosier Lane,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Balthazar Gerbier.</note>
+                  <note>Annotation on Thomason copy: "Mar. 12 1649"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education, Humanistic --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165567:1" rendition="simple:additions"/>
+            <p>A Publique LECTURE On all the Languages, Arts, Sciences, and Noble Exerciſes, which are taught in S<hi rend="sup">r.</hi> Balthazar Gerbiers ACADEMY.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 8. ver. 12.</hi>
+               </bibl>
+               <p>Ego ſum ſapientia, cohaereo aſtutiae, &amp; ſcientiam ſummae ſolertiae praeſentem habeo.</p>
+               <p>
+                  <hi>Wiſdome dwelleth with Prudence, and findes out knowledge of witty Inventions.</hi>
+               </p>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Hen: Scobell, Cleric: Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> for <hi>Robert Ibbitſon</hi> dwelling in Smithfield neer <hi>Hoſier Lane,</hi> 1650.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:165567:2"/>
+            <pb facs="tcp:165567:2"/>
+            <head>To the Right Honourable, the Lord Mayor, and Aldermen of the moſt famous City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HAving, during my being converſant with Forreigne Na<g ref="char:EOLhyphen"/>tions, obſerved among ſundry of their honourable and moſt uſefull eſtabliſhments that of publick Academies, wherein Lovers of all noble Exerciſes (as well as of Arts, Sciences, and Langua<g ref="char:EOLhyphen"/>ges) are inſtructed and improved, without repairing to other parts, &amp; without giving to other Nations the glory and the advantages of their Education. I have bin ſo much the ſooner moved to apply my ſelf to the eſtabliſhment of ſuch an Academy for the honor and be<g ref="char:EOLhyphen"/>nefit of this Nation, for that it wanted ſuch an advantage, and that the ſame proved to be ſo prejudiciall to Sons of honorable Pa<g ref="char:EOLhyphen"/>rents, when they are conſtrained to travell towards forreigne parts for ſuch improvements, for that they often meet with wic<g ref="char:EOLhyphen"/>ked perſons, who doe endeavour to infuſe into them moſt pernici<g ref="char:EOLhyphen"/>ous principles to their native Country; but the moſt deplorable caſe of all is, the ſubverſion of their Religion to a worſe. And whereas on ſuch juſt conſiderations and motives, I have beene moved, to advertiſe the publique of the advantages offered by the ſaid Academicall Exerciſes, and to cauſe publicke <hi>Gratis</hi> Lectures to be read, firſt at the Academies Summer Reſidency at <hi>Bednall-Green,</hi> and for the Winter Months in this place, where not onely the Fathers of Families, but alſo the Mothers (mutually intereſſed in the good educations of their Sonnes) could be more frequently informed of its method. As I thought it not ſtrange, that ſundry Ladies of Honour, and other Gentlewomen (though their vocation is not the maintaining of Arguments, and Theſes in any Univerſities, Academies, or Free-Schooles)
+<pb facs="tcp:165567:3"/>would be ſatisfied by their owne hearing of this Academicall in<g ref="char:EOLhyphen"/>ſtitution; and this moved me alſo to cauſe one Lecture to be read concerning all Languages, Arts, Sciences, and noble Exer<g ref="char:EOLhyphen"/>ciſes, which is that now by me preſented to you; which may inform you at full of all what is meant herein by me, as you will ſoone perceive; that it doth not only concerne the glory, and good of the Nation in generall, but particularly that of this great and famous City, which ought not to yeeld to any other in the World, and therefore not to be to ſeeke in the poſſesſion of one Academy, when <hi>Paris</hi> maintaines twelve, beſides a number of Univerſi<g ref="char:EOLhyphen"/>ties, and famous Free Schooles, and that there ſhould not be any more cauſe nor ground for <hi>Paris</hi> to pretend unto the dignity of a ſecond <hi>Athens</hi> then <hi>London;</hi> ſince ſuch a Metripolitan of this Land abounds in men of knowledge, and Maſters of Arts; who cannot chuſe but have one and the ſelſe-ſame ayme and marke; that which is excellent, honourable, juſt, neceſſary, and uſefull. May all ſuch as are endued with excellent capaſities, joyne to the promotement of what is ſo really meant by me, and may it be ſo well underſtood as that Forreigners may henceforth be moved to come from <hi>Salamanca</hi> in <hi>Spaine,</hi> from <hi>Padua</hi> in <hi>Italy,</hi> and from <hi>Paris</hi> in <hi>France</hi> to this Academy, therein to learne what they have hitherto wanted in theirs; and that find<g ref="char:EOLhyphen"/>ing themſelves alſo in a State wherein by the great mercy of God his ſacred Word is expounded in godlineſse and truth; thoſe that have been miſled by ſpirits of deluſion may turne unto the beſt, turne unto God I ſay, and live unto righteouſneſſe; and that this may be in your dayes, and during your great Govern<g ref="char:EOLhyphen"/>ment, I ſhall moſt fervently pray to God, as one that is ſin<g ref="char:EOLhyphen"/>cerely Right Honourable,</p>
+            <closer>
+               <dateline>From the Academy <date>this <hi>6</hi> of <hi>March. 1649.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your moſt humble and addicted Servant:</hi> Balthazar Gerbier.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="lecture">
+            <pb n="1" facs="tcp:165567:3"/>
+            <head>A generall Lecture read at Sir <hi>Bal<g ref="char:EOLhyphen"/>thazar Gerbiers</hi> Academy, on all the Lan<g ref="char:EOLhyphen"/>guages, Arts, Sciences, and Noble Exerciſes which are taught in the ſame.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S all Arts and Sciences doe raiſe Men farre above all other Animals, ſo ac<g ref="char:EOLhyphen"/>cording to the Latine ſaying, <hi>Nobilis eſt ille quem nobilitat ſua virtus;</hi> and as knowledge is a good, conſiſting in two Branches; the Firſt, bearing fruites pleaſing unto God; the Second, beneficiall unto men; ſo that all men being Vines of Gods owne planting, are bound to make good the firſt by gratitude, the ſe<g ref="char:EOLhyphen"/>cond in regard of brotherly love, which need not to be edged on either by the ancient or moderne exam<g ref="char:EOLhyphen"/>ples of the Learnedſt, wiſeſt, or nobleſt Perſons of the World; for as vertue in its ſelfe, beares its value, ſo it needs no other motive: But if ſo be men are not acquainted with her, there will be then an abſolute neceſſity to ſet forth her inviſible Dimenſions and Latitude.</p>
+            <p>Which can be no more perceived by externall ob<g ref="char:EOLhyphen"/>jects,
+<pb n="2" facs="tcp:165567:4"/>then thoſe inſcrutable Attributes of God, viz. his Juſtice to puniſh ſinners, his Mercy to pardon, and his Truth to accompliſh his Promiſes. The inviſible qualities of Vertue may be ſaid to be originally ſeene by her ſelfe, as God knoweth himſelfe by himſelfe; and how to love himſelfe, by the knowledge of his eternall goodneſſe: So all men ſhould love that which is undeniably ſo, being that which makes men deſpiſe the meanes of Fortune; and ſuch a deſpiſing is an operation of the Soules greatneſſe and generoſi<g ref="char:EOLhyphen"/>ty, and indeed true vertue. The only thing that ele<g ref="char:EOLhyphen"/>vates man, and places him farre above all that the world admires, and accounts moſt deare.</p>
+            <p>Now as there are certain degrees, by the which men are introduced and guided from one knowledge, to a greater perfection of knowledge; even as there are ſeverall ſteps to attaine unto the top of Pyramides, Trojan Colommes, Mauſoles, and Pantheons: ſo Lan<g ref="char:EOLhyphen"/>guages, and Sciences, though they teach not ſimpli<g ref="char:EOLhyphen"/>city, modeſty, ſobriety, frugality, not clemency, yet they are moſt neceſſary, for that a Lover of know<g ref="char:EOLhyphen"/>ledge muſt endeavour to have his Garland adorned with Leaves and Flowers; which are the fitteſt orna<g ref="char:EOLhyphen"/>ments, to accompany the producement of fruits.</p>
+            <p>Let it then be farre from a well compoſed minde, to entertaine ſo unworthy a beleefe, as certaine Hereticks have laboured to ſuſtaine; That the grea<g ref="char:EOLhyphen"/>teſt Art is to know nothing, and who conſequently would place Languages, Arts, and Sciences amongſt the number of ſuperfluous things; ſince in all Ages ex<g ref="char:EOLhyphen"/>perience it ſelfe hath conſtantly proved the contrary; and that they never were found burthenſome, leſſe prejudiciall.</p>
+            <pb n="3" facs="tcp:165567:4"/>
+            <p>
+               <hi>Troy</hi> may be deſtroyed by fire, nothing of moment ſaved, nor gotten out; but that precious burthen which a good Sonne had carried away on his ſhoul<g ref="char:EOLhyphen"/>ders, to wit, his Father. The wiſe and learned man amidſt theſe combuſtions looſeth nothing, leaves no<g ref="char:EOLhyphen"/>thing behinde him; neither doth any thing trouble him, for that he is ſeene to walke away quietly, ſay<g ref="char:EOLhyphen"/>ing, <hi>Omnia mea mecum porto,</hi> I doe carry all with me. And that we may proceed in order, we will declare unto you what all the Languages, Arts, Sciences, and noble Exerciſes ſerve for;</p>
+            <div type="part">
+               <head>And firſt concerning Languages.</head>
+               <p>OF all the chaſtiſements wherewith God hath been pleaſed to ſatisfie his Juſtice, becauſe of the ambi<g ref="char:EOLhyphen"/>tion, rebellion, and hardneſſe of the hearts of men, the confuſion of Languages ſhould ſeeme to be one of the greateſt, except that in the inſcrutable ſecret of God, and in his divine providence the diverſity of them was thought neceſſary even for the good of man, as ſhall be diſcourſed of at large in the next Lecture concer<g ref="char:EOLhyphen"/>ning the Art of Well-ſpeaking, which will prove to be the moſt vaſte effect of the appetite of man as can be treated of in this world. And that as ſpeech is a generall deſire in man, ſo Well Speaking is hardeſt to be obtained, becauſe of the difficulties which it meets withall, not only in the interiour and exteriour parts, its Organes, and moſt neceſſary inſtruments, as Divines likewiſe well know, that it requires thoſe ſublime qua<g ref="char:EOLhyphen"/>lities which are to be obſerved in that Element; by the which the cloven Tongues were repreſented on the heads of the beloved, and choſen, of him that was from all eternity equall with the Divine Author of
+<pb n="4" facs="tcp:165567:5"/>all things. They will tell you alſo, that as God brea<g ref="char:EOLhyphen"/>thed in man a living Soule, which came from him, and was his immediate act, without the addition of any ſe<g ref="char:EOLhyphen"/>condary cauſe, and not as the creation of his body, for that God tooke earth for the making of that part of man (which as all things bend to their off-ſpring, muſt returne to that from whence it came, the Soule, as <hi>Solomon</hi> the Wiſe ſaith, returning to its great Divine Creator) Language, to be as the Soule of the Soule, at leaſt its interpreter, and therefore it was that a Philoſopher ſaid to one that affected ſilence, <hi>Speake that I may ſee thee.</hi>
+               </p>
+               <p>It was as the Scripture tells us, a ſpeciall, miracu<g ref="char:EOLhyphen"/>lous, and bleſſed operation of the Holy Ghoſt, a mi<g ref="char:EOLhyphen"/>raculous operation indeed; and for the which the Speakers were not only admired, but the Auditors thereby made the more knowing.</p>
+               <p>Now as all vertuous and knowing men have found by an infallible experience of what excellent and vaſte uſe the Languages are, it may ſuffice in few words to ſay, that whoſoever ſpeakes divers Languages, may firſt paſſe through all the world as a Patriot of it, and never as a Stranger. Call for what he deſires, and, ſay, all what he would have another man to know by him, without ſubmitting himſelfe either to the ignorance, or to the malice of any interpreter, freely expoſe him<g ref="char:EOLhyphen"/>ſelfe to the preſence of the greateſt Princes, States, and Magiſtrates, and if need be, plead before them his owne cauſe, as the great Apoſtle <hi>Paul</hi> did; when in other things (concerning theſe of the world) eſpecially of Trafficke betweene men and men, they may mannage their owne Bargaines, and keepe
+<pb n="5" facs="tcp:165567:5"/>their owne counſell on paine of ſecreſie.</p>
+               <p>The experience of the great uſe of Languages mo<g ref="char:EOLhyphen"/>ved a Germane Emperor to cauſe an Edict to be pub<g ref="char:EOLhyphen"/>liſh'd, that all Gentlemen ſhould learne and ſpeake five Languages at the leaſt, that thereby they might ten<g ref="char:EOLhyphen"/>der themſelves the more capable of the publicke em<g ref="char:EOLhyphen"/>ployment: The which even the greateſt Princes, and the moſt famous men in all Ages have obſerved; For that beſides the publicke, common, and particular in<g ref="char:EOLhyphen"/>tereſt concerned herein; Its a maine point of honour, as well as of duty, that the Creature ſhould endeavour as much as in him lyeth, to reſemble his Maker, who underſtands all things, and all Languages. All men have a certaine affinity to each other; and is it not a ſhame, that one brother ſhould not under<g ref="char:EOLhyphen"/>ſtand another. A <hi>Neopolitan</hi> Courſſier underſtands the neighing of a <hi>Frizeland</hi> Stallion; and a <hi>Conſtantinopoli<g ref="char:EOLhyphen"/>tan</hi> Aſſe, the braying of an <hi>Italian</hi> Mule. And beſides the ſhame of being ignorant, even the uſefulneſſe of ſpeaking ſeverall Languages, ought to move all men to confeſſe that there is an abſolute neceſſity of learn<g ref="char:EOLhyphen"/>ing them. And ſince the knowledge of Languages can be gotten at home; Is it not requiſite to addict ones ſelfe to ſtudy ſuch an Art, as may juſtly move any Traveller to ſay, not onely with the Philoſopher, that he carried all about him; but that he hath a Key in his mouth which will open a paſſage unto him, which way ſoever he turns himſelfe?</p>
+               <p>And this he may doe far better, if beſides the re<g ref="char:EOLhyphen"/>membring of the words, he acquires unto himſelfe the manner they muſt be delivered in; for that its quite different to ſpeake unto a <hi>Frenchman,</hi> as to a <hi>Spaniard;</hi>
+                  <pb n="6" facs="tcp:165567:6"/>unto an <hi>Italian,</hi> as to a <hi>German;</hi> the firſt will be ſpoken unto in quicke, witty Language; the <hi>Italian</hi> in a ſpeech as regular as a paper of Muſicke; the <hi>Spaniards</hi> in a lofty ſtile, as unto <hi>Caeſars,</hi> and the <hi>Germans</hi> in a grave accent as unto <hi>Senators.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Civility.</head>
+               <p>
+                  <hi>CIvility</hi> is as the ſoule of man, his beſt orna<g ref="char:EOLhyphen"/>ment; it had its riſe in <hi>Aſia minor,</hi> according unto <hi>Cicero's</hi> obſervations; It cauſed <hi>Jacob</hi> the Patriach (though Bed-rid by ſickneſſe) to raiſe himſelfe up, at the approach of <hi>Joſeph</hi> his ſonne, that with more eaſe <hi>Joſeph</hi> might imbrace him: It made <hi>Ahaſhuerus</hi> riſe from his Throne, to ſtretch forth his Scepter unto Queen <hi>Heſter:</hi> It doth magnetically joyn the hearts and mindes of men: It preſents affability to inferiours: It makes equalls ſerviceable one to another; and it cauſeth a reſpectfull obedience from Inferiours, to Su<g ref="char:EOLhyphen"/>periours: Now if this be practiſed by men, before they ſet forth to travell; they will ſeldome encounter any ſcornfull reception, or diſdainfull look: And there<g ref="char:EOLhyphen"/>fore the <hi>Spaniards</hi> (who cannot endure to be neglected) obſerve this rule; that leaſt a ſtranger might not be ac<g ref="char:EOLhyphen"/>quainted with their quality, they will firſt put their hand to their Hat, that they may not faile of a ſalute.</p>
+            </div>
+            <div type="part">
+               <head>Of Hiſtory.</head>
+               <p>HOw needfull the knowledge of Hiſtory is for to be joyned unto theſe two foregoing quallities of Languages, and Civill converſation. Times out of minde tells us, the holy Writ commands it, and both neceſſity and uſe requires it: Both in the firſt and ſuc<g ref="char:EOLhyphen"/>ceeding Ages, children had it by Tradition, and it was
+<pb n="7" facs="tcp:165567:6"/>infuſed into them, as it were, by publicke Songs and Poems, thereby to incite them unto vertuous and ge<g ref="char:EOLhyphen"/>nerous actions; <hi>Thou ſhalt ſhew it,</hi> ſaith the Scripture, <hi>unto thy ſonnes, and it ſhall be for a ſigne unto thee upon thine hand, and for a memoriall between thine eyes, that the Lords Law may be in thy mouth,</hi> Exod. <hi>chap.</hi> 13. <hi>v.</hi> 8, 9. <hi>And it ſhall be when thy ſonne asketh thee in time to come, ſaying, What is this, that thou ſhalt ſay unto him, by ſtrength of hand the Lord brought us out of Egypt, from the houſe of bondage,</hi> verſ. 14.</p>
+               <p>As Hiſtory declares unto all <hi>men the marvellous things which God did from time to time, both his graces, and mer<g ref="char:EOLhyphen"/>cies beſtowed on men;</hi> as alſo the chaſtiſements where<g ref="char:EOLhyphen"/>with he viſited the Nations for their Rebellion, and for the hardneſſe of their hearts. So it makes men to be acquainted with the eſtabliſhment of Monarchies; their progreſſes, their wanes, and utter ruine; as alſo with the revolutions of Ages, viciſſitudes, and changes of humane affaires, the very beginning, policy, and go<g ref="char:EOLhyphen"/>vernment of all Nations; the diverſity of Laws, Man<g ref="char:EOLhyphen"/>ners, and Cuſtomes: And as in converſation, Hiſtory is a great and fair ornament unto all men; ſo it is moſt profitable to all thoſe whom God hath appointed to be Rulers over them; for that it denotes what is paſt, what is certaine, and what is moſt profitable, in thoſe things which concerne the Government, the preſerving of Amity with Neighbours; the ſecuring of the State a<g ref="char:EOLhyphen"/>gainſt Invaſions, and the meanes to preſerve both cre<g ref="char:EOLhyphen"/>dit and reputation.</p>
+               <p>Now if ſo be a Gentleman have Languages, and if he be ſo fitly inſtructed, before he ſets forth to tra<g ref="char:EOLhyphen"/>vell, he will ſoon attract unto himſelfe the eares of all
+<pb n="8" facs="tcp:165567:7"/>men, and will likewiſe make a deep impreſſion in their good opinion and love, eſpecially when he ſhall have a generall knowledge of all the other qualities requi<g ref="char:EOLhyphen"/>ſite in a compleat Gentleman.</p>
+            </div>
+            <div type="part">
+               <head>The uſe of Arithmeticke.</head>
+               <p>ARithmeticke doth not only teach the procee<g ref="char:EOLhyphen"/>dings, properties, and the practicall part of Numbers, but alſo reſolves all ſorts of queſti<g ref="char:EOLhyphen"/>ons; not only concerning Trade, but alſo touching the moſt noble and excellent parts of the Mathema<g ref="char:EOLhyphen"/>ticks. And as in the firſt place, experience tells all Ne<g ref="char:EOLhyphen"/>gotiants, how neceſſary it is for them to know how to caſt their owne accounts, and how great a pre<g ref="char:EOLhyphen"/>judice it is to thoſe that are to ſeeke therein; ſo it denotes in the ſecond place, what marvellous queſtions are reſolved by the ſame, on matters which would o<g ref="char:EOLhyphen"/>therwiſe require a ſpirit of Divination to finde them out.</p>
+               <p>
+                  <hi>Vitravius</hi> will tell you how <hi>Archimedes</hi> by an Arith<g ref="char:EOLhyphen"/>meticall concluſion, found out what quantity of Gold King <hi>Hirons</hi> Gold-ſmith had ſtolne, of that part whereof he was to make a Crowne for him, having mixt it with as much Silver as he had taken Gold out of it. And the way how to reſolve this task came in<g ref="char:EOLhyphen"/>to <hi>Archimedes</hi> minde, as he was entring into his Bathe, and obſerving that the water did riſe or vent it ſelf by degrees, as his body deſcended into it; ſo he conclu<g ref="char:EOLhyphen"/>ded, that the ſame would probably be effected by putting therein a pure Golden Ball, another of Silver, and one of a mixt body; and thus he diſcovered, that by Arithmeticall rules the queſtion was to be re<g ref="char:EOLhyphen"/>ſolved.</p>
+               <pb n="9" facs="tcp:165567:7"/>
+               <p>And as <hi>Solomon</hi> the Wiſe expreſſeth, that God hath diſpoſed of all things in a certaine meaſure, number, and weight; ſo we muſt then neceſſarily conclude, that ſuch a Science is generally uſefull, and neceſſary, like unto a generall Key, for the opening, unfolding, and further proceeding into all the moſt neceſſary, and moſt noble Sciences; which may ſuffice, as concern<g ref="char:EOLhyphen"/>ing the uſe, and end of Arithmetick.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the keeping of Bookes between Debitor, and Creditor.</head>
+               <p>ALL Negotiants know the neceſſary uſe hereof; for that a great number of thoſe who have not learned the ſame, have not only ſuffered there<g ref="char:EOLhyphen"/>by extreamly in ſeverall reſpects, but divers for want of its knowledge have been utterly ruined, and all their aſſociates, and dependances; ſo likewiſe by a great negligence hereof, divers Widowes and Or<g ref="char:EOLhyphen"/>phans eſtates, have been left in a very diſputable and diſorderly condition, for the ſole want of an orderly and methodicall manner of keeping of Accounts; the which could not be rectified, though divers expert men had imployed much time both in the examining, and redreſſing of them.</p>
+            </div>
+            <div type="part">
+               <head>Of Geometry.</head>
+               <p>
+                  <hi>PLato's</hi> writing on his Schoole, <hi>Let none that be ignorant of Geometry enter here,</hi> hath often been re<g ref="char:EOLhyphen"/>peated to you.</p>
+               <p>Geometry imparts it ſelfe, both unto Aſtronomy, Muſick, Perſpective, Coſmographie, Geographie, Na<g ref="char:EOLhyphen"/>vigation, and the like.</p>
+               <p>By this ſame Art the ſeverall wayes of meaſuring all manner of lengths, heights, diſtances, and depths
+<pb n="10" facs="tcp:165567:8"/>are deſcribed; as well thoſe which are acceſſible, as inacceſſible. It ſerves likewiſe for the deſcription of any place, it is neceſſary in Fortifications, in the con<g ref="char:EOLhyphen"/>veyance of Mines under ground; its likewiſe neceſſary in the Art of diſcharging great Ordnance, and in the diſcovering of the Ships diſtances at Sea.</p>
+               <p>Its requiſite for to finde out the meanes, and rules how to meaſure all ſorts of Plaines, Convexes, or concave ſuperficieſes; as likewiſe thoſe which are compounded either of ſtreight or circular Lines, or mixt with both; it denotes the diſpoſall of all ſorts of Ground-plots, either of Fortreſſes, Caſtles, Townes, Cities, and Pallaces. It is neceſſary for a Generall of an Army, or any other Commander; thereby to know how to order a fit ſtand for his Battalions.</p>
+               <p>Its likewiſe uſefull to divide grounds either before, or after Inundations, which may have waſht away or defac'd the bounds, and Land-markes; it deſcribes the exact meaſures of ſolid bodies, whether regular or ir<g ref="char:EOLhyphen"/>regular; for to order and delineate the ſeverall quan<g ref="char:EOLhyphen"/>tities and proportions of all parcels appertaining to any kinde of building.</p>
+               <p>So likewiſe without Geometry its impoſſible to at<g ref="char:EOLhyphen"/>taine to the knowledge or underſtanding of the beſt, and moſt famous Authors, who have written on the Mathematicks, as <hi>Euclide, Archimede, Appolonius, Pergeas, Diophantes, Ptolomie, and divers others;</hi> neither can any one without the ſame Art, meaſure the ſu<g ref="char:EOLhyphen"/>perficies, dimenſions, ſolidity, and extent of the Ter<g ref="char:EOLhyphen"/>reſtriall, nor Celeſtiall Globe, for as a neceſſary com<g ref="char:EOLhyphen"/>paſſe, it ſeemeth to be like unto a Ladder, for to aſcend unto the knowledge of thoſe great heavenly
+<pb n="11" facs="tcp:165567:8"/>conſtillations, the Sunne, the Moone, the Planets, and the fixed Starres.</p>
+            </div>
+            <div type="part">
+               <head>Of Coſmography.</head>
+               <p>WE ſhall now treat of Coſmography, a Greek word, ſignifying the deſcription of the uni<g ref="char:EOLhyphen"/>verſall world; a ſtudy which raiſeth the minde of man from the Earth unto the Paradiſe of Angels, that of the bleſſed, the Throne of the Almighty; and as on the aſpect of thoſe heavenly Creatures, it may be moſt properly ſaid; <hi>Cum reſpicio Coelos tuos, opus di<g ref="char:EOLhyphen"/>gitorum tuorum, Lunam &amp; ſtellas quas ſtatuiſti; quid eſt mortalis quodmemor ſis ejus aut filius hominis quod viſites eum:</hi> When I conſider the Heavens, the workes of thy fingers, the Moone and the Starres which thou haſt ordained; what is man that thou art mindfull of him, or the Sonne of man that thou viſiteſt him, <hi>Pſal.</hi> 8. <hi>ver.</hi> 3. &amp; 4. So likewiſe may they ſerve to conclude, <hi>Inviſibilia enim Dei a creatura mundi per eaquae facta ſunt, intelecta conſpiciuntur, ſempiterna quoque, &amp; jus, virtus, &amp; divinitas;</hi> The inviſible things of his are cleerly ſeene, even from the creation of the World, being underſtood by the things that are made, <hi>Rom. ca.</hi> 1. <hi>v.</hi> 20. And this ſtudy leades the mindes of men to an admiration; <hi>ſo much beyond all other things, as the Heavens are above the Earth.</hi> It teacheth us, that it is <hi>God who hath given a Law unto the Starres, and an in<g ref="char:EOLhyphen"/>fallible order, which doth manifeſt how he moves by ſeconda<g ref="char:EOLhyphen"/>ry cauſes,</hi> which he hath ordained, and eſtabliſht; and how he governs the inferiour Orbs, making them ſub<g ref="char:EOLhyphen"/>ject to mutations; And that he permits men to be verſt in the ſeverall aſpects of theſe Celeſtiall Crea<g ref="char:EOLhyphen"/>tures, that the knowledge hereof may oblige us to
+<pb n="12" facs="tcp:165567:9"/>ſeeke him inceſſantly; chiefly when thoſe aſpects doe threaten us with his diſpleaſure: As alſo to render thankes and praiſes unto him, when their conſtellati<g ref="char:EOLhyphen"/>ons doe appeare favourable and gracious unto us; which is the ſaving profit that is to be made by this ſtudy, and waving all thoſe fond fancies of mens wits of the time, who by the new perſpective glaſſes of their beſotted imaginations frame a new world in the Moone, as the other Heriticks of <hi>Copernicus</hi> his Sect, and ſuch as ſeeme to beleeve that the Sun is a fixt Center, and the World to be like a joynt of meat ſpitted, which turns and windes about it; beſides divers other ſpeculations, that the number of the Heavens and Starres ſhould not have been well calculated; queſtioning the plurality of Heavens, and whether the Starres, as in a liquid Chriſtall, doe flow, and ſwiftly ſlide along; whether the different motions of the Starres agree with the violence of the Suns beames, and anſwer unto its repercuſſions, rendring them ſta<g ref="char:EOLhyphen"/>tionaries, or retrogrades, where withall the empti<g ref="char:EOLhyphen"/>neſſe is filled; whether or no, the matter of Heaven can endure more or leſſe penetration, then the water, the aire, or the fire can; ſince that all things are ei<g ref="char:EOLhyphen"/>ther heavie, or light, and that ſo the Starres being of a light ſubſtance ought to aſcend up, or to deſcend if ſo be they were of a heavie matter.</p>
+            </div>
+            <div type="part">
+               <head>Of Geographie.</head>
+               <p>AS Hiſtory repreſenteth unto man all the marvel<g ref="char:EOLhyphen"/>lous workes which God hath done from time to time; ſo Geographie is as the eye of man, or as the Looking-glaſſe of Hiſtory; for that it doth repreſent unto him in a moment, the moſt accompliſht
+<pb n="13" facs="tcp:165567:9"/>Maſter-peece of all the marvellous works which God hath created: And certainly the queſtion will not prove impertinent, whether it would not be an even lay, either to have eyes, and to bee unwilling to ſee the workes of God, or to ſee them, and to have no minde to conſider what they are: And what ſhall Lovers of knowledge ſay of thoſe, who are heires to faire houſes, and eſtates, and who have not the curioſity to know their dimenſions, diſtincts, and extents. What ſhall Lovers of Vertue and Know<g ref="char:EOLhyphen"/>ledge ſay unto thoſe, who account themſelves to be as it were at <hi>Gamaliels</hi> feet, and remaine far more igno<g ref="char:EOLhyphen"/>rant then thoſe who never came neare him, even ſuch as ſhould take roomes in the famous Univerſities of this Land, and neare unto the noble Innes of Court; and would not apply themſelves to the Sciences that are profeſt in them; ſhall the rationall creature be pla<g ref="char:EOLhyphen"/>ced in an earthly Paradiſe, and not delight in its ob<g ref="char:EOLhyphen"/>ſervance?</p>
+               <p>Shall any man indued with reaſon, runne from home to heare ſtrangers tell him, how his fathers houſe is built, and how his lands doe lye. <hi>Geography</hi> ſhould be as familiar to every Inhabitant of the earth, as his chambers Looking-glaſſe is, in the which he delights to ſee his owne face; and ſo much the more, ſince by the ſaid ſtudy, he may attaine to the knowledge of all the Inhabitants poſſeſſions of the earth; and that at his firſt ſetting forth, he may appeare to be an heire of all the world, and no ſtranger; but that he can make eve<g ref="char:EOLhyphen"/>ry place his owne home; and that he can make himſelf to be as welcome in any part of <hi>Europe,</hi> as at his owne home, by letting men ſee, that he hath ſtudied what
+<pb n="14" facs="tcp:165567:10"/>they are. And as by the ſaid knowledge men attaine not onely unto the knowledge of the repertitions, of the earth, of the variety of Nations, Lawes and Cuſtomes, of their Maximes, but alſo of their wealth, and commodities, and how they muſt be dealt withall, and alſo how to take all fit advantages againſt them; ſo every Student in that Art, may without ſtir<g ref="char:EOLhyphen"/>ring from his Chamber, travell through all the world, and in his minde converſe with all the Princes in the world, as well as with all the ſeverall Nations, and In<g ref="char:EOLhyphen"/>habitants thereof.</p>
+               <p>He will ſoon repreſent unto himſelfe all the prin<g ref="char:EOLhyphen"/>cipall parts in <hi>Aſia,</hi> thoſe of <hi>Africa,</hi> thoſe of <hi>Europe,</hi> and <hi>America;</hi> with all the Iſlands, Seas, and Rivers; and inſenſibly beget in himſelfe a generall acquain<g ref="char:EOLhyphen"/>tance of all what thoſe ſeverall parts of the world doe poſſeſſe: If ſo be he may be juſtly moved to procure unto himſelfe as much as poſſibly he can, all thoſe laudable and neceſſary quallities, which all other Na<g ref="char:EOLhyphen"/>tions doe value; and for the want of which, he is by ſome eſteemed no leſſe then a bruite. Neither ſhall we need to exclude the moſt eminent perſons; nay ſuch Princes as are not verſt in them. When the Grand Signior himſelfe, by the fundamentall Law of his Em<g ref="char:EOLhyphen"/>pire, he muſt practice not onely a Science, but a Trade, and muſt put his worke to ſale: Amongſt the <hi>Roman</hi> Emperours there were thoſe who have publickly acted and ſung: Others, did Draw, Paint, Limne, In<g ref="char:EOLhyphen"/>grave, were Turners, and made Watches: And who but the noble Egyptians were at firſt permitted to ſtudy <hi>Aſtronomy:</hi> They were Kings, as the Wiſe men who had ſeen the Starre of the Sonne of Righteouſ<g ref="char:EOLhyphen"/>neſſe.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:165567:10"/>
+               <head>Of Muſicke.</head>
+               <p>HOw Muſicke time out of minde, hath been che<g ref="char:EOLhyphen"/>riſhed by the great ones of the Earth wee all know, and what is due to that Art; for that it came downe from Heaven to denounce the birth of his onely Sonne, <hi>before whoſe glorious Divine Majeſty, legi<g ref="char:EOLhyphen"/>ons of Angels covered their faces;</hi> and do ſing a perpetuall heavenly Hallelujah; And as in an harmonious Con<g ref="char:EOLhyphen"/>ſort, the Singers, and the Royall Prophet became for that time companions in one Chorus; ſo the pooreſt of this world by ſinging the praiſes of our God, <hi>will be<g ref="char:EOLhyphen"/>come the companions of Angels, and Arch-angels by a ge<g ref="char:EOLhyphen"/>nerall</hi> Laudate Dominum.</p>
+               <p>And in this manner all men may make themſelves happy by all the vocations, and unto whatſoever Art or Science, they may addict themſelves, ſo they can reſolve to doe that, in this preſent time, which the holy Writ foretelleth, both of an Age, and of Nati<g ref="char:EOLhyphen"/>ons yet to come, in a new world; <hi>One day of which ſhall be as light, as the light of ſeven dayes, and that in thoſe dayes God ſhall be praiſed by all things whatſoever men ſhall take in hand.</hi>
+               </p>
+               <p>And then doubtleſſe <hi>Arithmeticke</hi> will ſerve unto all men, for to reckon the number of their dayes, to apply their hearts unto wiſdome: <hi>Geometry,</hi> for to know how to leavie unto each man his owne: <hi>Coſmo<g ref="char:EOLhyphen"/>graphy,</hi> to direct the eyes of the ſoule towards the Garden of Angels, and there to delight perpetually in the admiration of him who hath made thoſe great and glorious heavenly creatures: <hi>Geography,</hi> to admire the extent and variety of Gods admirable riches be<g ref="char:EOLhyphen"/>ſtowed on the ſons of men.</p>
+               <pb n="16" facs="tcp:165567:11"/>
+               <p>The Art of Perſpective, conſiſting in Points, and Signes, to fixe mens Meditations perpetually on God, by an uneffable aſſurance, that all the traces of mans life ſhall be perfect, ſo they have God for their Dire<g ref="char:EOLhyphen"/>ctor, and Center. So likewiſe all other Arts, Scien<g ref="char:EOLhyphen"/>ces, and Mathematicall concluſions, and expedients, may ſerve like unto ſo many ſteps, for to lead the mind of man into a condition to love wiſdome, which is to be valued above all things.</p>
+               <p>Even thoſe parts of the Mathematicks concerning the Military Art, will induce a man to what is above ſaid; For that God is the Lord of Hoſts, and Battels, and its he whom the Royall Prophet <hi>David</hi> ſought for to <hi>teach his hands to war, and his fingers to fight.</hi>
+               </p>
+               <p>It was his will that <hi>Moſes</hi> and his owne choſen peo<g ref="char:EOLhyphen"/>ple ſhould heare his voice amidſt the thunder, and lightning, and the mighty ſounds of Trumpets, he ſent his Angels before his Hoſt, and conducted the ſame by a pillar of fire. So that all Sciences having their warrant and being eſtabliſhed by the Almighty, they are to be ſearcht into, learned, and practiſed by all men, that may be capable of them, and without any exception of perſons; for as all Arts and Sciences are derived from him, who is the ſole giver of all good gifts; ſo they are all celeſtiall by extraction, honour<g ref="char:EOLhyphen"/>able, beneficiall, and warrantable, their abuſes ex<g ref="char:EOLhyphen"/>cluded.</p>
+               <p>Ingraving, and Drawing, had its firſt off-ſpring in the perſon of <hi>Bezaleel</hi> of the Tribe of <hi>Juda,</hi> and <hi>Aza<g ref="char:EOLhyphen"/>liel</hi> of the Tribe of <hi>Dan,</hi> who wrought at the Arke of God; as <hi>Hiram</hi> of the Tribe of <hi>Naphthali,</hi> did at the Temple of <hi>Solomon:</hi> And how uſefull it is to any man to
+<pb n="17" facs="tcp:165567:11"/>have an inſight in that Art, experience tells thoſe, whoſe occaſions require them to leave unto their po<g ref="char:EOLhyphen"/>ſterity, to their native Country, Families, or Houſes, moſt durable tokens, ſignes, and monuments of their once being.</p>
+               <p>Of dancing among the other exerciſes of the body, the Academy is not deſirous to ſay any more then what is warranted by the holy Writ, That King <hi>David</hi> and <hi>Miriam Aarons</hi> ſiſter, were moved by a pious zeale to dance before the Lord. And doubtleſſe their Dances were neither Galliards, nor Sarabandes, Pavans, nor Coranto's; Yet as their dancing is to be ſuppoſed to have been more free from pride then now adayes they are; ſo it is as likely they were gracefully performed, with agility and dexterous carriage of body, uſefull in that regard; the abuſe being ſevered from it, as drun<g ref="char:EOLhyphen"/>kenneſſe, and gluttonnes from Feaſts. And that in them the ſaying be obſerved, <hi>ſive editis, ſive bibitis, ſive quid facitis, Omnia ad Dei gloriam facite.</hi> Which if it could be obſerved in dancing in theſe times, the Academy would with more confidence maintaine the practice thereof, to be more requiſite, as a neceſſary means to prevent thoſe ſtinging whiſperings, which al the care of Parents cannot ſave their Daughters from, at publick meetings, where if there be no dancing (which is a re<g ref="char:EOLhyphen"/>creation by all men ſeen.) Young men will be apt to buz in Maidens eares that which cannot be heard, and that which very oft ſtrikes a dangerous ſting even to the very heart.</p>
+            </div>
+            <div type="part">
+               <head>Of naturall experimentall Philoſophy.</head>
+               <p>THat we may not paſſe in ſilence, an Art as profit<g ref="char:EOLhyphen"/>able, as delightfull; to wit, Naturall experimen<g ref="char:EOLhyphen"/>tall
+<pb n="18" facs="tcp:165567:12"/>
+                  <hi>Philoſophy,</hi> we will give you a briefe touch there<g ref="char:EOLhyphen"/>on.</p>
+               <p>
+                  <hi>Philoſophy,</hi> in the firſt degree, it is in effect the love of wiſdome, giving man an univerſall knowledge of all things; the ſumme whereof is, that of a primary cauſe; to wit, God.</p>
+               <p>The ſecond part of <hi>Philoſophy,</hi> affords unto men, ſe<g ref="char:EOLhyphen"/>verall means, ſerving to the enriching of noble and profitable Sciences, ſuch as are the preſerving and re<g ref="char:EOLhyphen"/>ſtoring of mans health, the reducing both of Medica<g ref="char:EOLhyphen"/>ments, and certaine kinde of foods, into a ſmaller bulk, and into a more pleaſant ſubſtance, the diverſifying of ſeverall plants and flowers; their ſpeedier production, then is uſuall in ordinary Gardens.</p>
+               <p>The mixing of ſeverall fruits, by the way of cer<g ref="char:EOLhyphen"/>taine graftings, and inocculatings; and ſo, as it were producing new kindes of them.</p>
+               <p>The preſerving of divers kindes of fruits, and flow<g ref="char:EOLhyphen"/>ers, in ſuch ſeaſons, as they are not uſually ſeen. The improving of barren ſoyles, and enriching of leane grounds.</p>
+               <p>The way to preſerve the fruits of the earth from thoſe inconveniences whereunto they are otherwiſe ſubject, and whereby many times, men chance to loſe that in one day, or in one night, which they have been hoping for, and expecting a whole yeare, &amp;c.</p>
+               <p>Now certainly, as the afore-mentioned Arts and Sciences, are neceſſary inducements for to enrich the minde of man; ſo the exerciſes of the body, may be ac<g ref="char:EOLhyphen"/>counted no leſſe juſt and requiſite, the unneceſſary abu<g ref="char:EOLhyphen"/>ſes being ſevered from them, in that they perfect man in his carriage and behaviour; even as the knowledge
+<pb n="19" facs="tcp:165567:12"/>of Arts and Sciences adorne, and ſharpen a mans under<g ref="char:EOLhyphen"/>ſtanding, making him the more capable to give di<g ref="char:EOLhyphen"/>rections in all the particulars depending of them, and the which are derived from them.</p>
+               <p>Be it, to provide a defence for his own City or par<g ref="char:EOLhyphen"/>ticular habitation, either againſt a particular or com<g ref="char:EOLhyphen"/>mon Enemy; be it, to attach any place with the leaſt hazard or danger; Fortification affords him neceſſary rules, and ſuccinct moddels.</p>
+               <p>Be it, to meet his Enemy in a ſingle combat, Fen<g ref="char:EOLhyphen"/>cing is the Art, which the firſt Law of Man, and Na<g ref="char:EOLhyphen"/>ture, ſelfe-preſervation, commands him to learn be<g ref="char:EOLhyphen"/>times, whether on foot, or on horſe-back. And in this, the Art of wel-riding, is altogether neceſſary, not that Art which conſiſts in the running of ſo many miles in an houre, nor to make a horſe, as <hi>Bucephalus,</hi> to know <hi>Alexander,</hi> or as the horſe <hi>Baziart</hi> did his valiant Ma<g ref="char:EOLhyphen"/>ſter <hi>Cida;</hi> but to manage a horſe well, to teach him to turne and winde nimbly, and ſo a man may take the beſt advantage on his Enemy.</p>
+               <p>And though it ſhould happen, that the occaſions of fighting on horſe-back, might chance to be taken away; yet the skill of a good Rider ſhall never be re<g ref="char:EOLhyphen"/>jected, ſince that it alwaies is requiſite, for to make that creature (ſo neceſſary, and naturally proper for the uſe of men) the more manageable to all commodious and recreative exerciſes, &amp;c.</p>
+               <p>And thus we ſhall finiſh this Lecture for the preſent, having briefly treated on the moſt inſeparableſt pro<g ref="char:EOLhyphen"/>perties unto all thoſe Sciences and Arts, to be taught in this Academy, Viz. <hi>Languages, Arts, Sciences,</hi> and <hi>Noble Exerciſes, &amp;c.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
